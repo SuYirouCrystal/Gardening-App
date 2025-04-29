@@ -23,24 +23,24 @@
 - [License](#license)  
 
 ## Overview  
-The **garden** module is a Next.js–based sub-application within the Gardening-App monorepo, built with the App Router for file-based routing and server components to deliver SEO-friendly, high-performance pages&#8203;:contentReference[oaicite:1]{index=1}. It enables users to maintain a plant catalog, schedule watering, and visualize growth analytics via React components and Tailwind CSS&#8203;:contentReference[oaicite:2]{index=2}.
+The **garden** module is a Next.js–based sub-application within the Gardening-App monorepo, built with the App Router for file-based routing and server components to deliver SEO-friendly, high-performance pages. It enables users to maintain a plant catalog, schedule watering, and visualize growth analytics via React components and Tailwind CSS.
 
 ## Features  
 - **Plant Catalog Management**  
-  – Create, edit, and delete plant profiles (species, planting date, care notes)&#8203;:contentReference[oaicite:3]{index=3}.  
+  – Create, edit, and delete plant profiles (species, planting date, care notes).  
 - **Watering Scheduler**  
-  – Log watering events and get plant-specific schedule recommendations&#8203;:contentReference[oaicite:4]{index=4}.  
+  – Log watering events and get plant-specific schedule recommendations.  
 - **Growth Analytics Dashboard**  
-  – Interactive charts showing historical growth metrics (client-side components with recharts)&#8203;:contentReference[oaicite:5]{index=5}.  
+  – Interactive charts showing historical growth metrics (client-side components with recharts).  
 - **Responsive Design**  
-  – Fully responsive layouts powered by Tailwind CSS breakpoints and utility classes&#8203;:contentReference[oaicite:6]{index=6}.
+  – Fully responsive layouts powered by Tailwind CSS breakpoints and utility classes.
 
 ## Prerequisites  
 - **Node.js** ≥18 (LTS)  
 - **npm** ≥8 or **Yarn** ≥1.22  
-- **Git** for cloning and version control&#8203;:contentReference[oaicite:7]{index=7}.  
+- **Git** for cloning and version control;:contentReference.  
 
-> Long-form documentation (e.g., design decisions, API specs) belongs in a project wiki rather than this README&#8203;:contentReference[oaicite:8]{index=8}.
+> Long-form documentation (e.g., design decisions, API specs) belongs in a project wiki rather than this README.
 
 ## Installation & Setup  
 1. **Clone the repository**  
@@ -106,6 +106,3 @@ We welcome bug reports and pull requests! Please follow these steps:
 
 ## License
 Distributed under the MIT License. See LICENSE for more details​.
-```makefile
-::contentReference[oaicite:14]{index=14}
-```

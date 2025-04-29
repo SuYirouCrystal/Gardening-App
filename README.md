@@ -9,7 +9,7 @@
 
 ---
 
->This README follows established best practices—providing only the necessary information to get up and running quickly, while pointing to deeper documentation where needed&#8203;:contentReference[oaicite:0]{index=0}.
+>This README follows established best practices—providing only the necessary information to get up and running quickly, while pointing to deeper documentation where needed&#8203.
 
 ## Table of Contents  
 - [Overview](#overview)  

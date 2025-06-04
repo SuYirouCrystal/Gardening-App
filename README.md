@@ -4,9 +4,10 @@
   </p>
 </div>
 
----
+[![CI Status](https://img.shields.io/github/actions/workflow/status/SuYirouCrystal/Gardening-App/ci.yml?branch=main)](https://github.com/SuYirouCrystal/Gardening-App/actions)
+[![Test Coverage](https://img.shields.io/codecov/c/github/SuYirouCrystal/Gardening-App?branch=main)](https://codecov.io/gh/SuYirouCrystal/Gardening-App)
 
->This README follows established best practices—providing only the necessary information to get up and running quickly, while pointing to deeper documentation where needed.
+---
 
 ## Table of Contents  
 - [Overview](#overview)  

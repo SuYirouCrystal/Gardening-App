@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Garden Module</h1>
   <p>A self-contained Next.js application for browsing, tracking, and managing your virtual garden 🌱</p>
-  <p>
-    <a href="https://github.com/SuYirouCrystal/Gardening-App/blob/main/garden/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
-    <a href="https://github.com/SuYirouCrystal/Gardening-App/actions"><img src="https://img.shields.io/github/actions/workflow/status/SuYirouCrystal/Gardening-App/ci.yml?branch=main" alt="Build Status"></a>
   </p>
 </div>
 

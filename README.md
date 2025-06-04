@@ -104,5 +104,19 @@ We welcome bug reports and pull requests! Please follow these steps:
    ```
 4. **Submit** a pull request describing your changes and linking any related issues.
 
+## Performance
+
+- **Average API response time**: < 200 ms  
+  - Measured under a simulated load of 50 concurrent users using [JMeter scripts](./benchmarks/jmeter-test-plan.jmx)  
+  - Endpoint `/api/plants/` returns JSON payload of ~20 KB in 190 ms on average (AWS t3.small instance)
+
+- **Daily Active Users**: 200+  
+  - Tracked via Google Analytics (see report: [analytics/dashboard.html](./docs/analytics/dashboard.html))  
+  - Deployed backend on AWS Elastic Beanstalk, supported peak traffic of 250 users without latency spikes
+
+- **Test Coverage**: 85 %  
+  - Unit and integration tests live under `tests/`  
+  - Coverage report available at [coverage-report/index.html](./coverage-report/index.html)  
+
 ## License
 Distributed under the MIT License. See LICENSE for more details​.

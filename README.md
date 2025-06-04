@@ -4,9 +4,6 @@
   </p>
 </div>
 
-[![CI Status](https://img.shields.io/github/actions/workflow/status/SuYirouCrystal/Gardening-App/ci.yml?branch=main)](https://github.com/SuYirouCrystal/Gardening-App/actions)
-[![Test Coverage](https://img.shields.io/codecov/c/github/SuYirouCrystal/Gardening-App?branch=main)](https://codecov.io/gh/SuYirouCrystal/Gardening-App)
-
 ---
 
 ## Table of Contents  

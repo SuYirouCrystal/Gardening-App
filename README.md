@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Garden Module</h1>
+  <h1>Full-Stack Garden Management App</h1>
   <p>A self-contained Next.js application for browsing, tracking, and managing your virtual garden 🌱</p>
   </p>
 </div>
